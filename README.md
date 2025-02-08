@@ -1,10 +1,10 @@
-### 🍃 Contents 🍃
+###  Contents 
 
 
   - <b>[Installation](#installation)</b>
 
 ## Installation
-##1.
+
 - Open your terminal
 - Copy the repository and unzip
 
@@ -19,7 +19,7 @@
  sudo cp -r genshin /usr/share/grub/themes
 ```
 
-- Or like in my case (DEBIAN-ARCH)
+- Or in case you use (DEBIAN-ARCH)
 
 >Arch/Debian `sudo cp -r genshin /boot/grub/themes`
 
