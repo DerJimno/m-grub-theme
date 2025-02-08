@@ -21,7 +21,7 @@
 
 - Or like in my case (DEBIAN-ARCH)
 
->Arch/Debian `sudo cp -r Xiao /boot/grub/themes`
+>Arch/Debian `sudo cp -r genshin /boot/grub/themes`
 
 - Then edit the name of the grub theme:
 ```
@@ -30,7 +30,7 @@ sudo nano /etc/default/grub
 ```
 GRUB_THEME="/boot/grub/themes/genshin/theme.txt"
 ```
-- Update the grub
+- Update grub
 ```
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
