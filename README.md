@@ -1,48 +1,36 @@
-### 🍃 Contents 🍃
+###  Contents 
 
-<a><img src="https://i.pinimg.com/originals/31/26/51/3126516d77b2f81eb31c088f605b2378.gif" width="30%" height="40%" title="🙂" align="right"></a>
-<br/><br/>
 
-- <b>[🖥️ GRUB Themes](#previews)</b>
-   - [Ver. 1](#1.)
-   - [Ver. 2](#2.)
-   - [Eng ver. 2](#eng2)
-
-- <b>[🔧 Installation](#installation)</b>
-  - [First method](#1.)
-  - [Second method (wip script, soon)](#2)
-
+  - <b>[Installation](#installation)</b>
 
 ## Installation
-##1.
-<a><img src="https://i.pinimg.com/originals/45/3d/87/453d874a5cb24f5321162400c0eb5262.gif" width="30%" height="30%" title="🙂" align="right"></a>
+
 - Open your terminal
 - Copy the repository and unzip
 
 ```
-    git clone https://github.com/Zerabalus/Xiao-Genshin-GRUB-themes.git
+    git clone https://github.com/DerJimno/genshin-grub-theme.git
 ```
 
-
-- Using Xiao Grub as an example:
+- Using genshin example:
 
 - cd to where you copied it, on your terminal:
 ```
- sudo cp -r Xiao /usr/share/grub/themes
+ sudo cp -r genshin /usr/share/grub/themes
 ```
 
-- Or like in my case (DEBIAN-ARCH)
+- Or in case you use (DEBIAN-ARCH)
 
->Arch/Debian `sudo cp -r Xiao /boot/grub/themes`
+>Arch/Debian `sudo cp -r genshin /boot/grub/themes`
 
-- Then edit the name of the grub theme you want:
+- Then edit the name of the grub theme:
 ```
 sudo nano /etc/default/grub
 ```
 ```
-GRUB_THEME="/boot/grub/themes/Xiao/theme.txt"
+GRUB_THEME="/boot/grub/themes/genshin/theme.txt"
 ```
-- Update the grub
+- Update grub
 ```
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
