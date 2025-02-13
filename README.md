@@ -40,17 +40,14 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 reboot
 ```
 
-## Previews
+## Preview theme
+1.
+<div align="center" style="display:inline">
+<img alt="genshin preview" src="genshin/background.png" width="1016px" />
+</div>
 
-###1.
-<div align="center" style="display:inline">
-<img alt="Xiao preview" src="git-img/EOS.png" width="1016px" />
-</div>
-###2.
-<div align="center" style="display:inline">
-<img alt="Xiao preview" src="git-img/EOS2.png" width="1016px" />
-</div>
-###Eng2
-<div align="center" style="display:inline">
-<img alt="Xiao preview" src="git-img/CYOS.png" width="1016px" />
-</div>
+
+
+
+
+
