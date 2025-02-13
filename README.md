@@ -18,12 +18,9 @@
 ```
   sudo cp -r genshin /usr/share/grub/themes
 ```
+>In case you use Arch/Debian `sudo cp -r genshin /boot/grub/themes`
 
-- Or in case you use (DEBIAN-ARCH)
-
->Arch/Debian `sudo cp -r genshin /boot/grub/themes`
-
-- Then edit the name of the grub theme:
+- Then add the name of the grub theme:
 ```
 sudo nano /etc/default/grub
 ```
