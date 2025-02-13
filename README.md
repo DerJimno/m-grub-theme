@@ -9,14 +9,14 @@
 - Copy the repository and unzip
 
 ```
-    git clone https://github.com/DerJimno/genshin-grub-theme.git
+  git clone https://github.com/DerJimno/genshin-grub-theme.git
 ```
 
 - Using genshin example:
 
 - cd to where you cloned it, on your terminal:
 ```
- sudo cp -r genshin /usr/share/grub/themes
+  sudo cp -r genshin /usr/share/grub/themes
 ```
 
 - Or in case you use (DEBIAN-ARCH)
