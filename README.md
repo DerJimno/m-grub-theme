@@ -14,7 +14,7 @@
 
 - Using genshin example:
 
-- cd to where you copied it, on your terminal:
+- cd to where you cloned it, on your terminal:
 ```
  sudo cp -r genshin /usr/share/grub/themes
 ```
