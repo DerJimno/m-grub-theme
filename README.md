@@ -9,7 +9,7 @@
 - Copy the repository and unzip
 
 ```
-  git clone https://github.com/DerJimno/genshin-grub-theme.git
+  git clone https://github.com/DerJimno/gacha-grub-theme.git
 ```
 
 - Using genshin example:
@@ -41,6 +41,11 @@ reboot
 1.
 <div align="center" style="display:inline">
 <img alt="genshin preview" src="genshin/background.png" width="1016px" />
+</div>
+
+2.
+<div align="center" style="display:inline">
+<img alt="genshin preview" src="wuwa/background.png" width="1016px" />
 </div>
 
 
