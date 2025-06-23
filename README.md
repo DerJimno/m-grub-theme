@@ -38,12 +38,12 @@ reboot
 ```
 
 ## Preview theme
-1.
+1. genshin
 <div align="center" style="display:inline">
 <img alt="genshin preview" src="genshin/background.png" width="1016px" />
 </div>
 
-2.
+2. wuwa
 <div align="center" style="display:inline">
 <img alt="genshin preview" src="wuwa/background.png" width="1016px" />
 </div>
