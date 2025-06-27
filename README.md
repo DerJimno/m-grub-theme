@@ -44,12 +44,12 @@ reboot
 ## Preview theme
 1. genshin
 <div align="center" style="display:inline">
-<img alt="genshin preview" src="preview/genshin/background.png"/>
+<img alt="genshin preview" src="preview/genshin.png"/>
 </div>
 
 2. wuwa (cartethiya)
 <div align="center" style="display:inline">
-<img alt="genshin preview" src="preview/background.png"/>
+<img alt="genshin preview" src="preview/wuwa.png.png"/>
 </div>
 
 
