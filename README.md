@@ -49,7 +49,7 @@ reboot
 
 2. wuwa (cartethiya)
 <div align="center" style="display:inline">
-<img alt="genshin preview" src="preview/wuwa.png.png"/>
+<img alt="genshin preview" src="preview/wuwa.png"/>
 </div>
 
 
