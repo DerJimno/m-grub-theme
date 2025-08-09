@@ -13,28 +13,12 @@
   git clone https://github.com/DerJimno/gacha-grub-theme.git
 ```
 
-- cd to the repo, copy the desired theme directory:
+- cd to the repo, and launch the script:
 
 ```
-  sudo cp -r theme-folder /usr/share/grub/themes
+  sudo ./install.sh
 ```
->In case you use Arch/Debian `sudo cp -r theme-folder /boot/grub/themes`
-
-- Then use your favorite editor to add the name of the grub theme:
-
-```
-sudo nano /etc/default/grub
-```
-
-```
-GRUB_THEME="/boot/grub/themes/theme-folder/theme.txt"
-```
-
-- Update grub
-
-```
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-```
+>In case you dont't use Arch/Debian change the dest_dir in install.sh from `/boot/grub/themes` to `usr/share/grub/themes` and run the script again.
 
 - Reboot your pc
 
