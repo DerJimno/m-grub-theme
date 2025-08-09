@@ -2,6 +2,7 @@
 
 
   - <b>[Installation](#installation)</b>
+  - <b>[Attribution](#Attribution)</b>
 
 ## Installation
 
