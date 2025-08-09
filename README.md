@@ -12,12 +12,12 @@
   git clone https://github.com/DerJimno/gacha-grub-theme.git
 ```
 
-- cd to the repo, copy the desired theme directory (genshin example):
+- cd to the repo, copy the desired theme directory:
 
 ```
-  sudo cp -r genshin /usr/share/grub/themes
+  sudo cp -r theme-folder /usr/share/grub/themes
 ```
->In case you use Arch/Debian `sudo cp -r genshin /boot/grub/themes`
+>In case you use Arch/Debian `sudo cp -r theme-folder /boot/grub/themes`
 
 - Then use your favorite editor to add the name of the grub theme:
 
@@ -26,7 +26,7 @@ sudo nano /etc/default/grub
 ```
 
 ```
-GRUB_THEME="/boot/grub/themes/genshin/theme.txt"
+GRUB_THEME="/boot/grub/themes/theme-folder/theme.txt"
 ```
 
 - Update grub
@@ -41,19 +41,9 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 reboot
 ```
 
-## Preview theme
-1. genshin
-<div align="center" style="display:inline">
-<img alt="genshin preview" src="preview/genshin.png"/>
-</div>
-
-2. wuwa (cartethiya)
-<div align="center" style="display:inline">
-<img alt="genshin preview" src="preview/wuwa.png"/>
-</div>
 
 
-
-
-
-
+## Attribution
+Free Images By:
+- RDNE
+- Tara Winstead
