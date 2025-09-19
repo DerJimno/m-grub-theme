@@ -10,7 +10,7 @@
 - clone the repository
 
 ```
-  git clone https://github.com/DerJimno/gacha-grub-theme.git
+  git clone https://github.com/DerJimno/m-grub-theme.git
 ```
 
 - cd to the repo, and launch the script:
